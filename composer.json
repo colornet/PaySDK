@@ -1,5 +1,5 @@
 {
-    "name": "yurunsoft/pay-sdk",
+    "name": "colornet/payment",
     "description": "PHP 集成支付 SDK ，集成了支付宝、微信支付的支付接口和其它相关接口的操作。",
     "type": "library",
     "license": "MIT",
